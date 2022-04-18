@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="es.anonimo.qestudiare">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher_main"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".Main"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".About"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Setting"
+            android:parentActivityName=".Main" />
+        <activity android:name=".fragment.CourseFragment" />
+        <activity android:name=".fragment.FavoriteFragment" />
+        <activity android:name=".fragment.UniversityFragment" />
+        <activity android:name=".Content" />
+        <activity android:name=".fragment.HomeFragment" />
+        <activity android:name=".fragment.LegalFragment" />
+        <activity android:name=".fragment.DedicationFragment" />
+        <activity android:name=".fragment.PrefaceFragment" />
+        <activity android:name=".fragment.IntroductionPageFragment" />
+        <activity android:name=".fragment.CrCienciasMedicasFragment" />
+        <activity android:name=".fragment.CrCienciasSocialesHumanisticasFragment" />
+        <activity android:name=".fragment.CrCienciasNaturalesMatematicasFragment" />
+        <activity android:name=".fragment.CrEconomiaFragment" />
+        <activity android:name=".fragment.CrCienciasTecnicasFragment" />
+        <activity android:name=".fragment.CrCienciasAgropecuariasFragment" />
+        <activity android:name=".fragment.CrArteFragment" />
+        <activity android:name=".fragment.CrPedagogicasFragment" />
+        <activity android:name=".fragment.CrTecnologiaCienciasAplicadasFragment" />
+        <activity android:name=".fragment.CrCulturaFisicaFragment" />
+        <activity android:name=".fragment.CrDisenoFragment" />
+        <activity android:name=".fragment.CrMinintFragment" />
+        <activity android:name=".fragment.CrFarFragment" />
+    </application>
+
+</manifest>

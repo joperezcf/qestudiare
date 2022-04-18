@@ -1,0 +1,24 @@
+Ciencia de la Computación
+
+Una de las principales tareas como licenciado en esta rama es el desarrollo, la utilización y el control, de forma eficiente, de las capacidades de una computadora como sistema recepcionador, organizador, recuperador, procesador y suministrador de información.
+
+Como profesional no construyes computadoras —aunque sí intervienes en su diseño—, pues tu tarea fundamental es desarrollar al máximo las capacidades potenciales que tiene la máquina ya construida para realizar los procesos de información.
+
+Con el desarrollo de la sociedad, las computadoras constituyen una exigencia para la solución de problemas en las esferas de los servicios, la educación, la economía, etcétera. Nuestro país realiza un importante trabajo en la rama de la cibernética que comprende desde la construcción de mini computadoras hasta su aplicación en mayor medida en las esferas anteriormente mencionadas, por lo que se requiere de una adecuada preparación profesional.
+
+¿Qué disciplinas se estudian en la carrera?
+
+Las principales disciplinas del plan de estudio son:
+• Análisis Matemático.
+• Álgebra.
+• Programación.
+• Matemática Computacional.
+• Compilación.
+• Sistemas de Lenguaje de Datos.
+• Inteligencia Artificial.
+• Sistema de Operación y Red.
+• Programación de Máquinas.
+
+¿Cómo te desempeñarás profesionalmente?
+
+Tu actividad laboral como egresado de esta carrera puede desarrollarse en todas aquellas ramas de la producción y los servicios, así como en instituciones científico-investigativas que requieran del análisis, la modelación y la ejecución por computadoras de los procesos de información para la solución de los problemas que se presenten.

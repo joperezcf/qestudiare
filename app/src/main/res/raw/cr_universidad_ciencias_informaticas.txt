@@ -1,0 +1,9 @@
+Universidad de Ciencias Informáticas
+
+La carrera que se estudia en la Universidad de las Ciencias Informáticas tiene como objeto de estudio el proceso productivo de software (propio de la industria del software) y el proceso de explotación de los medios informáticos en la sociedad, con el propósito de incrementar la eficacia y la eficiencia del funcionamiento de las organizaciones.
+
+Nuestro graduado estará dotado con conocimientos tecnológicos, de organización y dirección de procesos y entidades, que le permitirán desempeñarse en todos los sectores de la sociedad. Su campo de acción será el desarrollo de software y la gestión de la actividad informática.
+
+Estará en capacidad de enfrentar las tareas de los equipos de aseguramiento de la calidad, gestión de configuración, planificación, ingeniería de software (analista, diseñador, arquitecto de la aplicación, implantador, etc.), soporte de software, administración de la red y de servicios de cómputo, así como las tareas del auditor informático, comercializador, entrenador en medios ambientes de software, líder de equipo, mantenedor de sistemas informáticos para distintas organizaciones, seleccionador de hardware y software, y planificador estratégico de la informática.
+
+Además, estará preparado en perfiles secundarios como Bioinformática, Seguridad Informática, Administración de Redes, Software Educativo y Realidad Virtual, Entornos Virtuales, entre otros. Tendrá habilidades como investigador en proyectos informáticos y podrá desempeñarse como docente en las enseñanzas media, media superior y superior.

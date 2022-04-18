@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">qestudiare</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Configuración</string>
+    <string name="action_about">Acerca de.</string>
+    <string name="action_paglegal">Legal</string>
+    <string name="action_paghome">Inicio</string>
+    <string name="action_pagdedication">Dedicatoria</string>
+    <string name="action_pagpreface">Prólogo del editor</string>
+    <string name="action_university">Universidades</string>
+    <string name="action_favorite">Favoritos</string>
+    <string name="action_favorite_main">Favoritos</string>
+    <string name="cfg_sizeTxt">Tamaño de Letra</string>
+    <string name="cfg_themeApp">Tema</string>
+    <string name="cfg_language">Idioma</string>
+    <string name="cfg_cleanFavorite">Limpiar favoritos</string>
+    <string name="about_credit">
+        Dedicada a:
+        \n\nAquellos estudiantes que se encuentra en la Enseñanza Media para que puedan conocer todas las carreras que se estudia en nuestro país.
+        \n\nGabriela Pérez Sánchez, especialmente.
+    </string>
+    <string name="about_powerby">
+        2018 © JOPVcc
+    </string>
+    <string name="pag_legal">
+        378-Rui-Q\n
+        ¿Que voy a estudiar? / Hilda Ruiz Echevarría; Diana Mondeja González; Luisa María Guerra Rubio; María Isabel González Vergara y René Sánchez Díaz. -- Ciudad de La Habana : Editorial Universitaria, 2009. -- ISBN 978-959-16-1022-5. -- 117 pág.\n
+            1. Ruiz Echevarría, Hilda\n
+            2. Mondeja González, Diana\n
+            3. Guerra Rubio, Luisa María\n
+            4. Educación Superiore
+        \n\n
+        Digitalización: Dr. C. Raúl G. Torricella Morales\n
+        Versión impresa de la obra: ¿Que voy a estudiar? / Colectivo de autores. Ciudad de La Habana :\n
+        Editorial Félix Varera. -- ISBN 959-07-0244-9, 2006, 2008.\n
+        \n\n
+        La Editorial Universitaria publica bajo licencia Creative Commons de tipo Reconocimiento No Comercial Sin Obra Derivada, se permite su copia y distribución por cualquier medio siempre que mantenga el reconocimiento de sus autores, no haga uso comercial de las obras y no realice ninguna modificación de ellas. La licencia completa puede consultarse en:\n
+        http://creativecommons.org/licenses/by-nc-nd/2.5/ar/legalcode\n
+        \n\n
+        Editorial Universitaria\n
+        Calle 23 entre F y G, No. 564\n
+        El Vedado, Ciudad de La Habana, CP 10400\n
+        \n
+        e-mail: torri@reduniv.edu.cu\n
+        Sitio Web: http://revistas.mes.edu.cu\n
+    </string>
+    <string name="license_dialog">The MIT License (MIT)\n\n Copyright (c) 2014-2016 Aidan Michael Follestad\n\n Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\n\n \t\t The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\n\n THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.\n\n </string>
+
+    <array name="list_theme">
+        <item>Claro</item>
+        <item>Oscuro</item>
+    </array>
+
+    <array name="list_TxtSize">
+        <item>Normal</item>
+        <item>Mediano</item>
+        <item>Grande</item>
+    </array>
+</resources>

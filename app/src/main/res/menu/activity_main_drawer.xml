@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Carreras">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_carreras_ciencias_sociales_humanisticas"
+                    android:title="Ciencias Sociales y Humanísticas" />
+                <item
+                    android:id="@+id/nav_carreras_ciencias_naturales_matematica"
+                    android:title="Ciencias Naturales y Matemática" />
+                <item
+                    android:id="@+id/nav_carreras_economia"
+                    android:title="Economía" />
+                <item
+                    android:id="@+id/nav_carreras_ciencias_tecnicas"
+                    android:title="Ciencias Técnicas" />
+                <item
+                    android:id="@+id/nav_carreras_ciencias_agropecuarias"
+                    android:title="Ciencias Agropecuarias" />
+                <item
+                    android:id="@+id/nav_carreras_arte"
+                    android:title="Arte" />
+                <item
+                    android:id="@+id/nav_carreras_ciencias_medicas"
+                    android:title="Ciencias Médicas" />
+                <item
+                    android:id="@+id/nav_carreras_pedagogicas"
+                    android:title="Pedagógicas" />
+                <item
+                    android:id="@+id/nav_carreras_tecnologia_ciencias_aplicadas"
+                    android:title="Tecnología y Ciencias Aplicadas" />
+                <item
+                    android:id="@+id/nav_carreras_cultura_fisica"
+                    android:title="Cultura Física" />
+                <item
+                    android:id="@+id/nav_carreras_diseno"
+                    android:title="Diseño" />
+                <item
+                    android:id="@+id/nav_ensenanza_militar_ministerio_interior"
+                    android:title="Militar del Ministerio del Interior" />
+                <item
+                    android:id="@+id/nav_ensenanza_militar_fuerzas_armadas_revolucionarias"
+                    android:title="Militar de las Fuerzas Armadas Revolucionarias" />
+            </group>
+        </menu>
+    </item>
+
+</menu>
+

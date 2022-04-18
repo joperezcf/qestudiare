@@ -1,0 +1,5 @@
+﻿¿Qué voy a estudiar?
+
+Es una pregunta que inquieta año tras año a los estudiantes que se preparan para su ingreso en la universidad. Con esta aplicación el Autor desea poner en sus manos una información inicial acerca de las carreras a las cuales pueden acceder.
+
+El texto recoge una breve explicación sobre las futuras profesiones, los contenidos fundamentales que se estudian en cada una de las tareas que desarrollan los profesionales una vez graduados.
