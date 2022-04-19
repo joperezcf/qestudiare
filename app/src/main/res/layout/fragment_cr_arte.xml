@@ -19,7 +19,7 @@
                 android:layout_height="wrap_content"
                 android:padding="15dp"
                 android:singleLine="false"/>
-            <android.support.v7.widget.CardView
+            <androidx.cardview.widget.CardView
                 android:id="@+id/cvArtPlastic"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -32,8 +32,8 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="10dp"
                     android:text="Artes Plásticas"/>
-            </android.support.v7.widget.CardView>
-            <android.support.v7.widget.CardView
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView
                 android:id="@+id/cvArtDance"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -47,8 +47,8 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="10dp"
                     android:text="Arte Danzario"/>
-            </android.support.v7.widget.CardView>
-            <android.support.v7.widget.CardView
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView
                 android:id="@+id/cvArtDramatic"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -62,8 +62,8 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="10dp"
                     android:text="Arte Teatral"/>
-            </android.support.v7.widget.CardView>
-            <android.support.v7.widget.CardView
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView
                 android:id="@+id/cvComunAudiov"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -77,8 +77,8 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="10dp"
                     android:text="Comunicación Audiovisual"/>
-            </android.support.v7.widget.CardView>
-            <android.support.v7.widget.CardView
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView
                 android:id="@+id/cvMusic"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -92,7 +92,7 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="10dp"
                     android:text="Música"/>
-            </android.support.v7.widget.CardView>
+            </androidx.cardview.widget.CardView>
         </LinearLayout>
     </ScrollView>
 </RelativeLayout>

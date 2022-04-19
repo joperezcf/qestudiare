@@ -5,18 +5,17 @@ import android.content.Intent;
 import android.content.SharedPreferences;
 import android.content.pm.PackageManager;
 import android.os.Bundle;
-import android.support.v4.app.Fragment;
-import android.support.v4.app.FragmentTransaction;
-import android.support.design.widget.NavigationView;
-import android.support.v4.view.GravityCompat;
-import android.support.v4.widget.DrawerLayout;
-import android.support.v7.app.ActionBarDrawerToggle;
-import android.support.v7.app.AppCompatActivity;
-import android.support.v7.widget.Toolbar;
+import androidx.core.view.GravityCompat;
+import androidx.drawerlayout.widget.DrawerLayout;
+import androidx.fragment.app.Fragment;
+import androidx.fragment.app.FragmentTransaction;
+import androidx.appcompat.app.AppCompatActivity;
+import androidx.appcompat.app.ActionBarDrawerToggle;
+import androidx.appcompat.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.Toast;
-
+import com.google.android.material.navigation.NavigationView;
 import es.anonimo.qestudiare.fragment.CrArteFragment;
 import es.anonimo.qestudiare.fragment.CrCienciasAgropecuariasFragment;
 import es.anonimo.qestudiare.fragment.CrCienciasMedicasFragment;
@@ -64,7 +63,7 @@ public class Main extends AppCompatActivity
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
         ActionBarDrawerToggle toggle = new ActionBarDrawerToggle(
                 this, drawer, toolbar, R.string.navigation_drawer_open, R.string.navigation_drawer_close);
-        drawer.setDrawerListener(toggle);
+        drawer.addDrawerListener(toggle);
         toggle.syncState();
 
         NavigationView navigationView = (NavigationView) findViewById(R.id.nav_view);
@@ -80,6 +79,7 @@ public class Main extends AppCompatActivity
 
     @Override
     public void onRequestPermissionsResult(int requestCode,String permissions[], int[] grantResults) {
+        super.onRequestPermissionsResult(requestCode, permissions, grantResults);
         switch (requestCode) {
             case MY_PERMISSIONS_REQUEST_WRITE_EXTERNAL_STORAGE: {
                 // If request is cancelled, the result arrays are empty.

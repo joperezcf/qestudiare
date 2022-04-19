@@ -19,7 +19,7 @@
                 android:layout_height="wrap_content"
                 android:padding="15dp"
                 android:singleLine="false"/>
-            <android.support.v7.widget.CardView
+            <androidx.cardview.widget.CardView
                 android:id="@+id/cvEducPreescolar"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -32,8 +32,8 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="10dp"
                     android:text="Educación Preescolar"/>
-            </android.support.v7.widget.CardView>
-            <android.support.v7.widget.CardView
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView
                 android:id="@+id/cvEducPrimaria"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -47,8 +47,8 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="10dp"
                     android:text="Educación Primaria"/>
-            </android.support.v7.widget.CardView>
-            <android.support.v7.widget.CardView
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView
                 android:id="@+id/cvEducEspecial"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -62,8 +62,8 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="10dp"
                     android:text="Educación Especial"/>
-            </android.support.v7.widget.CardView>
-            <android.support.v7.widget.CardView
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView
                 android:id="@+id/cvProfGenInteg"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -77,8 +77,8 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="10dp"
                     android:text="Profesor General Integral"/>
-            </android.support.v7.widget.CardView>
-            <android.support.v7.widget.CardView
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView
                 android:id="@+id/cvScienceReq"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -92,8 +92,8 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="10dp"
                     android:text="Ciencias Exactas"/>
-            </android.support.v7.widget.CardView>
-            <android.support.v7.widget.CardView
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView
                 android:id="@+id/cvScienNat"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -107,8 +107,8 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="10dp"
                     android:text="Ciencias Naturales"/>
-            </android.support.v7.widget.CardView>
-            <android.support.v7.widget.CardView
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView
                 android:id="@+id/cvHuman"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -122,8 +122,8 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="10dp"
                     android:text="Humanidades"/>
-            </android.support.v7.widget.CardView>
-            <android.support.v7.widget.CardView
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView
                 android:id="@+id/cvLangExtrang"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -137,8 +137,8 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="10dp"
                     android:text="Lenguas Extranjeras"/>
-            </android.support.v7.widget.CardView>
-            <android.support.v7.widget.CardView
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView
                 android:id="@+id/cvConstruc"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -152,8 +152,8 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="10dp"
                     android:text="Construcción"/>
-            </android.support.v7.widget.CardView>
-            <android.support.v7.widget.CardView
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView
                 android:id="@+id/cvMachine"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -167,8 +167,8 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="10dp"
                     android:text="Mecánica"/>
-            </android.support.v7.widget.CardView>
-            <android.support.v7.widget.CardView
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView
                 android:id="@+id/cvAgriculture"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -182,8 +182,8 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="10dp"
                     android:text="Agropecuaria"/>
-            </android.support.v7.widget.CardView>
-            <android.support.v7.widget.CardView
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView
                 android:id="@+id/cvMechanization"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -197,8 +197,8 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="10dp"
                     android:text="Mecanización"/>
-            </android.support.v7.widget.CardView>
-            <android.support.v7.widget.CardView
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView
                 android:id="@+id/cvElectric"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -212,8 +212,8 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="10dp"
                     android:text="Eléctrica"/>
-            </android.support.v7.widget.CardView>
-            <android.support.v7.widget.CardView
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView
                 android:id="@+id/cvInformatic"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -227,8 +227,8 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="10dp"
                     android:text="Informática"/>
-            </android.support.v7.widget.CardView>
-            <android.support.v7.widget.CardView
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView
                 android:id="@+id/cvEconomy"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -242,8 +242,8 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="10dp"
                     android:text="Economía"/>
-            </android.support.v7.widget.CardView>
-            <android.support.v7.widget.CardView
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView
                 android:id="@+id/cvPedPsic"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -257,8 +257,8 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="10dp"
                     android:text="Pedagogía-Psicología"/>
-            </android.support.v7.widget.CardView>
-            <android.support.v7.widget.CardView
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView
                 android:id="@+id/cvInstrArt"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -272,7 +272,7 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="10dp"
                     android:text="Instructor de Arte"/>
-            </android.support.v7.widget.CardView>
+            </androidx.cardview.widget.CardView>
         </LinearLayout>
     </ScrollView>
 </RelativeLayout>
