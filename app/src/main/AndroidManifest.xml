@@ -25,10 +25,10 @@
         <activity
             android:name=".Setting"
             android:parentActivityName=".Main" />
+        <activity android:name=".Content" />
         <activity android:name=".fragment.CourseFragment" />
         <activity android:name=".fragment.FavoriteFragment" />
         <activity android:name=".fragment.UniversityFragment" />
-        <activity android:name=".Content" />
         <activity android:name=".fragment.HomeFragment" />
         <activity android:name=".fragment.LegalFragment" />
         <activity android:name=".fragment.DedicationFragment" />

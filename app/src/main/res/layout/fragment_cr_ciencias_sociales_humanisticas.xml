@@ -19,7 +19,8 @@
                 android:layout_height="wrap_content"
                 android:padding="15dp"
                 android:singleLine="false"/>
-            <android.support.v7.widget.CardView
+            
+            <androidx.cardview.widget.CardView
                 android:id="@+id/cvBibInform"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -32,8 +33,8 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="10dp"
                     android:text="Bibliotecología y Ciencia de la Información"/>
-            </android.support.v7.widget.CardView>
-            <android.support.v7.widget.CardView
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView
                 android:id="@+id/cvComunicationSocial"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -47,8 +48,8 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="10dp"
                     android:text="Comunicación Social"/>
-            </android.support.v7.widget.CardView>
-            <android.support.v7.widget.CardView
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView
                 android:id="@+id/cvJournalism"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -62,8 +63,8 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="10dp"
                     android:text="Periodismo"/>
-            </android.support.v7.widget.CardView>
-            <android.support.v7.widget.CardView
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView
                 android:id="@+id/cvHumPhychology"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -77,8 +78,8 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="10dp"
                     android:text="Psicología"/>
-            </android.support.v7.widget.CardView>
-            <android.support.v7.widget.CardView
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView
                 android:id="@+id/cvRight"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -92,8 +93,8 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="10dp"
                     android:text="Derecho"/>
-            </android.support.v7.widget.CardView>
-            <android.support.v7.widget.CardView
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView
                 android:id="@+id/cvPhilosophy"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -107,8 +108,8 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="10dp"
                     android:text="Filosofía Marxista-Leninista"/>
-            </android.support.v7.widget.CardView>
-            <android.support.v7.widget.CardView
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView
                 android:id="@+id/cvHistory"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -122,8 +123,8 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="10dp"
                     android:text="Historia"/>
-            </android.support.v7.widget.CardView>
-            <android.support.v7.widget.CardView
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView
                 android:id="@+id/cvSociology"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -137,8 +138,8 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="10dp"
                     android:text="Sociología"/>
-            </android.support.v7.widget.CardView>
-            <android.support.v7.widget.CardView
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView
                 android:id="@+id/cvLangEnglish"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -152,8 +153,8 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="10dp"
                     android:text="Lengua Inglesa"/>
-            </android.support.v7.widget.CardView>
-            <android.support.v7.widget.CardView
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView
                 android:id="@+id/cvlangGerman"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -167,8 +168,8 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="10dp"
                     android:text="Lengua Alemana"/>
-            </android.support.v7.widget.CardView>
-            <android.support.v7.widget.CardView
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView
                 android:id="@+id/cvLangRus"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -182,8 +183,8 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="10dp"
                     android:text="Lengua Rusa"/>
-            </android.support.v7.widget.CardView>
-            <android.support.v7.widget.CardView
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView
                 android:id="@+id/cvLangFrench"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -197,8 +198,8 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="10dp"
                     android:text="Lengua Francesa"/>
-            </android.support.v7.widget.CardView>
-            <android.support.v7.widget.CardView
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView
                 android:id="@+id/cvHistoryArt"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -212,8 +213,8 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="10dp"
                     android:text="Historia del Arte"/>
-            </android.support.v7.widget.CardView>
-            <android.support.v7.widget.CardView
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView
                 android:id="@+id/cvLettering"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -227,8 +228,8 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="10dp"
                     android:text="Letras"/>
-            </android.support.v7.widget.CardView>
-            <android.support.v7.widget.CardView
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView
                 android:id="@+id/cvStudySocialCult"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -242,7 +243,7 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="10dp"
                     android:text="Estudios Socioculturales"/>
-            </android.support.v7.widget.CardView>
+            </androidx.cardview.widget.CardView>
         </LinearLayout>
     </ScrollView>
 </RelativeLayout>

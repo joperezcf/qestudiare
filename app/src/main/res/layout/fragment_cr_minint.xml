@@ -19,7 +19,7 @@
                 android:layout_height="wrap_content"
                 android:padding="15dp"
                 android:singleLine="false"/>
-            <android.support.v7.widget.CardView
+            <androidx.cardview.widget.CardView
                 android:id="@+id/cvLicDerMinint"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -33,7 +33,7 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="10dp"
                     android:text="Licenciatura en Derecho"/>
-            </android.support.v7.widget.CardView>
+            </androidx.cardview.widget.CardView>
         </LinearLayout>
     </ScrollView>
 </RelativeLayout>

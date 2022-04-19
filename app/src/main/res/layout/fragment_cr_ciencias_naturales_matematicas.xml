@@ -22,7 +22,7 @@
                 android:layout_height="wrap_content"
                 android:padding="15dp"
                 android:singleLine="false"/>
-            <android.support.v7.widget.CardView
+            <androidx.cardview.widget.CardView
                 android:id="@+id/cvMath"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -35,8 +35,8 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="10dp"
                     android:text="Matemática"/>
-            </android.support.v7.widget.CardView>
-            <android.support.v7.widget.CardView
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView
                 android:id="@+id/cvScienceComp"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -50,8 +50,8 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="10dp"
                     android:text="Ciencia de la Computación"/>
-            </android.support.v7.widget.CardView>
-            <android.support.v7.widget.CardView
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView
                 android:id="@+id/cvPhysics"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -65,8 +65,8 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="10dp"
                     android:text="Física"/>
-            </android.support.v7.widget.CardView>
-            <android.support.v7.widget.CardView
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView
                 android:id="@+id/cvGeography"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -80,8 +80,8 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="10dp"
                     android:text="Geografía"/>
-            </android.support.v7.widget.CardView>
-            <android.support.v7.widget.CardView
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView
                 android:id="@+id/cvQuimica"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -95,8 +95,8 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="10dp"
                     android:text="Química"/>
-            </android.support.v7.widget.CardView>
-            <android.support.v7.widget.CardView
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView
                 android:id="@+id/cvBiology"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -110,8 +110,8 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="10dp"
                     android:text="Biología"/>
-            </android.support.v7.widget.CardView>
-            <android.support.v7.widget.CardView
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView
                 android:id="@+id/cvBiochemistry"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -125,8 +125,8 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="10dp"
                     android:text="Bioquímica"/>
-            </android.support.v7.widget.CardView>
-            <android.support.v7.widget.CardView
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView
                 android:id="@+id/cvMicrobiology"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -140,8 +140,8 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="10dp"
                     android:text="Microbiología"/>
-            </android.support.v7.widget.CardView>
-            <android.support.v7.widget.CardView
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView
                 android:id="@+id/cvScienceFarmer"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -155,8 +155,8 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="10dp"
                     android:text="Ciencias Farmacéuticas"/>
-            </android.support.v7.widget.CardView>
-            <android.support.v7.widget.CardView
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView
                 android:id="@+id/cvScienceAliment"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -170,7 +170,7 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="10dp"
                     android:text="Ciencias Alimentarias"/>
-            </android.support.v7.widget.CardView>
+            </androidx.cardview.widget.CardView>
         </LinearLayout>
     </ScrollView>
 </RelativeLayout>

@@ -18,7 +18,7 @@
                 android:layout_height="wrap_content"
                 android:padding="15dp"
                 android:singleLine="false"/>
-            <android.support.v7.widget.CardView
+            <androidx.cardview.widget.CardView
                 android:id="@+id/cvMedic"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -31,8 +31,8 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="10dp"
                     android:text="Medicina"/>
-            </android.support.v7.widget.CardView>
-            <android.support.v7.widget.CardView
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView
                 android:id="@+id/cvStomatology"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -46,8 +46,8 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="10dp"
                     android:text="Estomatologia"/>
-            </android.support.v7.widget.CardView>
-            <android.support.v7.widget.CardView
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView
                 android:id="@+id/cvInfirmary"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -61,8 +61,8 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="10dp"
                     android:text="Enfermeria"/>
-            </android.support.v7.widget.CardView>
-            <android.support.v7.widget.CardView
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView
                 android:id="@+id/cvTechnologyHealth"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -76,8 +76,8 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="10dp"
                     android:text="Tecnologia de la Salud"/>
-            </android.support.v7.widget.CardView>
-            <android.support.v7.widget.CardView
+            </androidx.cardview.widget.CardView>
+            <androidx.cardview.widget.CardView
                 android:id="@+id/cvPsychology"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -91,7 +91,7 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="10dp"
                     android:text="Psicología"/>
-            </android.support.v7.widget.CardView>
+            </androidx.cardview.widget.CardView>
 
         </LinearLayout>
     </ScrollView>
